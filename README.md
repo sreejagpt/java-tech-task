@@ -1,5 +1,7 @@
 # Lunch Microservice
 
+some changes i would like to propose here
+
 The service provides an endpoint that will determine, from a set of recipes, what I can have for lunch at a given date, based on my fridge ingredient's expiry date, so that I can quickly decide what I’ll be having to eat, and the ingredients required to prepare the meal.
 
 ## Prerequisites
